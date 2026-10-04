@@ -18,8 +18,8 @@ const projects: Project[] = [
     description:
       "A modern and responsive personal portfolio built with React, Tailwind, and Framer Motion.",
     tech: ["React", "TailwindCSS", "Framer Motion"],
-    github: "https://github.com/Kartik8477853247/My-Portfolio",
-    demo: "https://Kartik.vercel.app/",
+    github: "https://github.com/Kartik8477853247/My-Portfolio-main",
+    demo: "https://my-portfolio-main-iota-khaki.vercel.app/",
   },
 ];
 
