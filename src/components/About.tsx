@@ -58,7 +58,7 @@ export default function About() {
             <motion.img
               whileHover={{ scale: 1.05, rotate: 2 }}
               transition={{ duration: 0.3 }}
-              src="/profile_pic.png"
+              src="/profile_pics.png"
               alt="Kartik Dhiman"
               className="
                 relative
